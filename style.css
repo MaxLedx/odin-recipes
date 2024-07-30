@@ -12,3 +12,10 @@ h2 {
     font-weight: bold;
     color: blueviolet;
 }
+
+.recipe-list {
+    display: inline-block;
+    background-color: blueviolet;
+    padding: 16px;
+    margin: 16px;
+}
