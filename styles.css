@@ -4,6 +4,20 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1 {
-    color: blueviolet;
+body {
+    padding: 1% 25%;
+}
+
+h1,
+h2 {
+    background-color: white;
+    color: black;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
